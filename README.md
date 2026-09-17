@@ -1,6 +1,6 @@
 ### Hello !! 👋
 
-My name is Emily, I am a 2nd year student at Sheridan College in the Software Development and Network Engineering program. 
+My name is Emily, I was a student at Sheridan College in the Software Development and Network Engineering program. 
 
 📚 - Through my studies I have learned many programming languages such as Java, JavaScript, HTML, PHP, CSS, MySQL, MongoDB and more! 
 
